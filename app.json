@@ -1,18 +1,18 @@
 {
-  "version": "2.2.2",
-  "download": "https://github.com/anfreire/updateMe-Mobile/releases/download/v2.2.2/updateMe.apk",
+  "version": "3.0.0",
+  "download": "https://github.com/David-Jhon/updateMe-Mobile/releases/download/v3.0.0/updateMe.apk",
   "releaseNotes": [
     {
-      "title": "App Sugestions Statistics",
-      "description": "New statistics page to show the number of app suggestions"
+      "title": "Maintained again",
+      "description": "Update Me continues as a community fork with a new package name (com.opendev.updateme)"
     },
     {
-      "title": "New Suggestions and Reports API",
-      "description": "New API to send suggestions and reports due to high demand"
+      "title": "Settings kept across updates",
+      "description": "Saved settings, installations and notification history now migrate correctly between versions"
     },
     {
       "title": "Bug fixes",
-      "description": "App version not updating when installed/updates/uninstalled"
+      "description": "Removed a settings entry that crashed the app, and fixed translations not being saved"
     }
   ]
 }

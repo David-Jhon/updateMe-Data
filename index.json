@@ -1,6 +1,6 @@
 {
     "HDO": {
-        "icon": "https://raw.githubusercontent.com/anfreire/updateMe-Data/main/icons/hdo.png",
+        "icon": "https://raw.githubusercontent.com/David-Jhon/updateMe-Data/main/icons/hdo.png",
         "depends": [],
         "complements": [],
         "features": [
@@ -22,7 +22,7 @@
         }
     },
     "YouTube": {
-        "icon": "https://raw.githubusercontent.com/anfreire/updateMe-Data/main/icons/youtube.png",
+        "icon": "https://raw.githubusercontent.com/David-Jhon/updateMe-Data/main/icons/youtube.png",
         "depends": [
             "MicroG"
         ],
@@ -71,7 +71,7 @@
         }
     },
     "YouTube Music": {
-        "icon": "https://raw.githubusercontent.com/anfreire/updateMe-Data/main/icons/youtube_music.png",
+        "icon": "https://raw.githubusercontent.com/David-Jhon/updateMe-Data/main/icons/youtube_music.png",
         "depends": [
             "MicroG"
         ],
@@ -118,7 +118,7 @@
         }
     },
     "Reddit": {
-        "icon": "https://raw.githubusercontent.com/anfreire/updateMe-Data/main/icons/reddit.png",
+        "icon": "https://raw.githubusercontent.com/David-Jhon/updateMe-Data/main/icons/reddit.png",
         "depends": [],
         "complements": [],
         "features": [
@@ -152,7 +152,7 @@
         }
     },
     "Twitch": {
-        "icon": "https://raw.githubusercontent.com/anfreire/updateMe-Data/main/icons/twitch.png",
+        "icon": "https://raw.githubusercontent.com/David-Jhon/updateMe-Data/main/icons/twitch.png",
         "depends": [],
         "complements": [],
         "features": [
@@ -184,7 +184,7 @@
         }
     },
     "TikTok": {
-        "icon": "https://raw.githubusercontent.com/anfreire/updateMe-Data/main/icons/tiktok.png",
+        "icon": "https://raw.githubusercontent.com/David-Jhon/updateMe-Data/main/icons/tiktok.png",
         "depends": [],
         "complements": [],
         "features": [
@@ -215,7 +215,7 @@
         }
     },
     "MicroG": {
-        "icon": "https://raw.githubusercontent.com/anfreire/updateMe-Data/main/icons/microg.png",
+        "icon": "https://raw.githubusercontent.com/David-Jhon/updateMe-Data/main/icons/microg.png",
         "depends": [],
         "complements": [],
         "features": [
@@ -236,7 +236,7 @@
         }
     },
     "Spotify": {
-        "icon": "https://raw.githubusercontent.com/anfreire/updateMe-Data/main/icons/spotify.png",
+        "icon": "https://raw.githubusercontent.com/David-Jhon/updateMe-Data/main/icons/spotify.png",
         "depends": [],
         "complements": [],
         "features": [
@@ -360,7 +360,7 @@
         }
     },
     "Photo Editor Pro": {
-        "icon": "https://raw.githubusercontent.com/anfreire/updateMe-Data/main/icons/photo_editor_pro.png",
+        "icon": "https://raw.githubusercontent.com/David-Jhon/updateMe-Data/main/icons/photo_editor_pro.png",
         "depends": [],
         "complements": [],
         "features": [
@@ -403,7 +403,7 @@
         }
     },
     "Photoshop Express": {
-        "icon": "https://raw.githubusercontent.com/anfreire/updateMe-Data/main/icons/photoshop_express.png",
+        "icon": "https://raw.githubusercontent.com/David-Jhon/updateMe-Data/main/icons/photoshop_express.png",
         "depends": [],
         "complements": [],
         "features": [
@@ -446,7 +446,7 @@
         }
     },
     "CapCut": {
-        "icon": "https://raw.githubusercontent.com/anfreire/updateMe-Data/main/icons/capcut.png",
+        "icon": "https://raw.githubusercontent.com/David-Jhon/updateMe-Data/main/icons/capcut.png",
         "depends": [],
         "complements": [],
         "features": [
@@ -489,7 +489,7 @@
         }
     },
     "InShot": {
-        "icon": "https://raw.githubusercontent.com/anfreire/updateMe-Data/main/icons/inshot.png",
+        "icon": "https://raw.githubusercontent.com/David-Jhon/updateMe-Data/main/icons/inshot.png",
         "depends": [],
         "complements": [],
         "features": [
@@ -532,7 +532,7 @@
         }
     },
     "Instagram": {
-        "icon": "https://raw.githubusercontent.com/anfreire/updateMe-Data/main/icons/instagram.png",
+        "icon": "https://raw.githubusercontent.com/David-Jhon/updateMe-Data/main/icons/instagram.png",
         "depends": [],
         "complements": [],
         "features": [
@@ -586,7 +586,7 @@
         }
     },
     "NewPipe": {
-        "icon": "https://raw.githubusercontent.com/anfreire/updateMe-Data/main/icons/newpipe.png",
+        "icon": "https://raw.githubusercontent.com/David-Jhon/updateMe-Data/main/icons/newpipe.png",
         "depends": [],
         "complements": [
             "YouTube",
@@ -608,7 +608,7 @@
         }
     },
     "Seal": {
-        "icon": "https://raw.githubusercontent.com/anfreire/updateMe-Data/main/icons/seal.png",
+        "icon": "https://raw.githubusercontent.com/David-Jhon/updateMe-Data/main/icons/seal.png",
         "depends": [],
         "complements": [
             "YouTube",
@@ -630,7 +630,7 @@
         }
     },
     "Niagara Launcher": {
-        "icon": "https://raw.githubusercontent.com/anfreire/updateMe-Data/main/icons/niagara.png",
+        "icon": "https://raw.githubusercontent.com/David-Jhon/updateMe-Data/main/icons/niagara.png",
         "depends": [],
         "complements": [],
         "features": [
@@ -673,7 +673,7 @@
         }
     },
     "Smart Launcher 6": {
-        "icon": "https://raw.githubusercontent.com/anfreire/updateMe-Data/main/icons/smart6.png",
+        "icon": "https://raw.githubusercontent.com/David-Jhon/updateMe-Data/main/icons/smart6.png",
         "depends": [],
         "complements": [],
         "features": [
@@ -716,7 +716,7 @@
         }
     },
     "ReVanced Manager": {
-        "icon": "https://raw.githubusercontent.com/anfreire/updateMe-Data/main/icons/revancedmanager.png",
+        "icon": "https://raw.githubusercontent.com/David-Jhon/updateMe-Data/main/icons/revancedmanager.png",
         "depends": [],
         "complements": [],
         "features": [
@@ -737,7 +737,7 @@
         }
     },
     "YTDLnis": {
-        "icon": "https://raw.githubusercontent.com/anfreire/updateMe-Data/main/icons/ytdlnis.png",
+        "icon": "https://raw.githubusercontent.com/David-Jhon/updateMe-Data/main/icons/ytdlnis.png",
         "depends": [],
         "complements": [
             "YouTube",
@@ -759,7 +759,7 @@
         }
     },
     "PartyPal": {
-        "icon": "https://raw.githubusercontent.com/anfreire/updateMe-Data/main/icons/partypal.png",
+        "icon": "https://raw.githubusercontent.com/David-Jhon/updateMe-Data/main/icons/partypal.png",
         "depends": [],
         "complements": [],
         "features": [
@@ -778,7 +778,7 @@
         }
     },
     "Picolo": {
-        "icon": "https://raw.githubusercontent.com/anfreire/updateMe-Data/main/icons/picolo.png",
+        "icon": "https://raw.githubusercontent.com/David-Jhon/updateMe-Data/main/icons/picolo.png",
         "depends": [],
         "complements": [],
         "features": [
@@ -797,7 +797,7 @@
         }
     },
     "Never Have I Ever": {
-        "icon": "https://raw.githubusercontent.com/anfreire/updateMe-Data/main/icons/neverhaveiever.png",
+        "icon": "https://raw.githubusercontent.com/David-Jhon/updateMe-Data/main/icons/neverhaveiever.png",
         "depends": [],
         "complements": [],
         "features": [
@@ -816,7 +816,7 @@
         }
     },
     "Borealis": {
-        "icon": "https://raw.githubusercontent.com/anfreire/updateMe-Data/main/icons/borealis.png",
+        "icon": "https://raw.githubusercontent.com/David-Jhon/updateMe-Data/main/icons/borealis.png",
         "depends": [],
         "complements": [
             "Niagara Launcher",
@@ -855,7 +855,7 @@
         }
     },
     "Layers": {
-        "icon": "https://raw.githubusercontent.com/anfreire/updateMe-Data/main/icons/layers_icon_pack.png",
+        "icon": "https://raw.githubusercontent.com/David-Jhon/updateMe-Data/main/icons/layers_icon_pack.png",
         "depends": [],
         "complements": [
             "Niagara Launcher",
@@ -886,7 +886,7 @@
         }
     },
     "Australis": {
-        "icon": "https://raw.githubusercontent.com/anfreire/updateMe-Data/main/icons/australis.png",
+        "icon": "https://raw.githubusercontent.com/David-Jhon/updateMe-Data/main/icons/australis.png",
         "depends": [],
         "complements": [
             "Niagara Launcher",
@@ -917,7 +917,7 @@
         }
     },
     "Vera": {
-        "icon": "https://raw.githubusercontent.com/anfreire/updateMe-Data/main/icons/vera.png",
+        "icon": "https://raw.githubusercontent.com/David-Jhon/updateMe-Data/main/icons/vera.png",
         "depends": [],
         "complements": [
             "Niagara Launcher",
@@ -956,7 +956,7 @@
         }
     },
     "Linebit": {
-        "icon": "https://raw.githubusercontent.com/anfreire/updateMe-Data/main/icons/linebit.png",
+        "icon": "https://raw.githubusercontent.com/David-Jhon/updateMe-Data/main/icons/linebit.png",
         "depends": [],
         "complements": [
             "Niagara Launcher",
@@ -987,7 +987,7 @@
         }
     },
     "SoundCloud": {
-        "icon": "https://raw.githubusercontent.com/anfreire/updateMe-Data/main/icons/soundcloud.png",
+        "icon": "https://raw.githubusercontent.com/David-Jhon/updateMe-Data/main/icons/soundcloud.png",
         "depends": [],
         "complements": [],
         "features": [
@@ -1006,7 +1006,7 @@
         }
     },
     "IPTV Pro": {
-        "icon": "https://raw.githubusercontent.com/anfreire/updateMe-Data/main/icons/iptv_pro.png",
+        "icon": "https://raw.githubusercontent.com/David-Jhon/updateMe-Data/main/icons/iptv_pro.png",
         "depends": [],
         "complements": [],
         "features": [
@@ -1041,7 +1041,7 @@
         }
     },
     "Perfect IPTV Player": {
-        "icon": "https://raw.githubusercontent.com/anfreire/updateMe-Data/main/icons/perfect_iptv_player.png",
+        "icon": "https://raw.githubusercontent.com/David-Jhon/updateMe-Data/main/icons/perfect_iptv_player.png",
         "depends": [],
         "complements": [],
         "features": [
@@ -1060,7 +1060,7 @@
         }
     },
     "Automate": {
-        "icon": "https://raw.githubusercontent.com/anfreire/updateMe-Data/main/icons/automate.png",
+        "icon": "https://raw.githubusercontent.com/David-Jhon/updateMe-Data/main/icons/automate.png",
         "depends": [],
         "complements": [],
         "features": [
@@ -1079,7 +1079,7 @@
         }
     },
     "Clickmate": {
-        "icon": "https://raw.githubusercontent.com/anfreire/updateMe-Data/main/icons/auto_clicker_macro:_clickmate.png",
+        "icon": "https://raw.githubusercontent.com/David-Jhon/updateMe-Data/main/icons/auto_clicker_macro_clickmate.png",
         "depends": [],
         "complements": [],
         "features": [
@@ -1114,7 +1114,7 @@
         }
     },
     "Tasker": {
-        "icon": "https://raw.githubusercontent.com/anfreire/updateMe-Data/main/icons/tasker.png",
+        "icon": "https://raw.githubusercontent.com/David-Jhon/updateMe-Data/main/icons/tasker.png",
         "depends": [],
         "complements": [],
         "features": [
@@ -1141,7 +1141,7 @@
         }
     },
     "Xodo": {
-        "icon": "https://raw.githubusercontent.com/anfreire/updateMe-Data/main/icons/xodo.png",
+        "icon": "https://raw.githubusercontent.com/David-Jhon/updateMe-Data/main/icons/xodo.png",
         "depends": [],
         "complements": [],
         "features": [
@@ -1175,7 +1175,7 @@
         }
     },
     "Brilliant": {
-        "icon": "https://raw.githubusercontent.com/anfreire/updateMe-Data/main/icons/brilliant.png",
+        "icon": "https://raw.githubusercontent.com/David-Jhon/updateMe-Data/main/icons/brilliant.png",
         "depends": [],
         "complements": [],
         "features": [
@@ -1193,7 +1193,7 @@
         }
     },
     "Musixmatch": {
-        "icon": "https://raw.githubusercontent.com/anfreire/updateMe-Data/main/icons/musixmatch.png",
+        "icon": "https://raw.githubusercontent.com/David-Jhon/updateMe-Data/main/icons/musixmatch.png",
         "depends": [],
         "complements": [
             "YouTube",
@@ -1239,7 +1239,7 @@
         }
     },
     "OnStream": {
-        "icon": "https://raw.githubusercontent.com/anfreire/updateMe-Data/main/icons/onstream.png",
+        "icon": "https://raw.githubusercontent.com/David-Jhon/updateMe-Data/main/icons/onstream.png",
         "depends": [],
         "complements": [],
         "features": [
@@ -1260,7 +1260,7 @@
         }
     },
     "Telegram": {
-        "icon": "https://raw.githubusercontent.com/anfreire/updateMe-Data/main/icons/telegram.png",
+        "icon": "https://raw.githubusercontent.com/David-Jhon/updateMe-Data/main/icons/telegram.png",
         "depends": [],
         "complements": [],
         "features": [
@@ -1290,7 +1290,7 @@
         }
     },
     "Showly": {
-        "icon": "https://raw.githubusercontent.com/anfreire/updateMe-Data/main/icons/showly.png",
+        "icon": "https://raw.githubusercontent.com/David-Jhon/updateMe-Data/main/icons/showly.png",
         "depends": [],
         "complements": [
             "HDO",
@@ -1327,7 +1327,7 @@
         }
     },
     "CamScanner": {
-        "icon": "https://raw.githubusercontent.com/anfreire/updateMe-Data/main/icons/camscanner.png",
+        "icon": "https://raw.githubusercontent.com/David-Jhon/updateMe-Data/main/icons/camscanner.png",
         "depends": [],
         "complements": [],
         "features": [
@@ -1369,7 +1369,7 @@
         }
     },
     "App Cloner": {
-        "icon": "https://raw.githubusercontent.com/anfreire/updateMe-Data/main/icons/app_cloner.png",
+        "icon": "https://raw.githubusercontent.com/David-Jhon/updateMe-Data/main/icons/app_cloner.png",
         "depends": [],
         "complements": [],
         "features": [
@@ -1395,7 +1395,7 @@
         }
     },
     "AdGuard": {
-        "icon": "https://raw.githubusercontent.com/anfreire/updateMe-Data/main/icons/adguard.png",
+        "icon": "https://raw.githubusercontent.com/David-Jhon/updateMe-Data/main/icons/adguard.png",
         "depends": [],
         "complements": [],
         "features": [
@@ -1437,7 +1437,7 @@
         }
     },
     "Picsart": {
-        "icon": "https://raw.githubusercontent.com/anfreire/updateMe-Data/main/icons/picsart.png",
+        "icon": "https://raw.githubusercontent.com/David-Jhon/updateMe-Data/main/icons/picsart.png",
         "depends": [],
         "complements": [],
         "features": [
@@ -1471,7 +1471,7 @@
         }
     },
     "Fitify": {
-        "icon": "https://raw.githubusercontent.com/anfreire/updateMe-Data/main/icons/fitify.png",
+        "icon": "https://raw.githubusercontent.com/David-Jhon/updateMe-Data/main/icons/fitify.png",
         "depends": [],
         "complements": [],
         "features": [
@@ -1505,7 +1505,7 @@
         }
     },
     "ENIX": {
-        "icon": "https://raw.githubusercontent.com/anfreire/updateMe-Data/main/icons/enix.png",
+        "icon": "https://raw.githubusercontent.com/David-Jhon/updateMe-Data/main/icons/enix.png",
         "depends": [],
         "complements": [
             "Niagara Launcher",
@@ -1527,7 +1527,7 @@
         }
     },
     "WPS Office": {
-        "icon": "https://raw.githubusercontent.com/anfreire/updateMe-Data/main/icons/wps_office.png",
+        "icon": "https://raw.githubusercontent.com/David-Jhon/updateMe-Data/main/icons/wps_office.png",
         "depends": [],
         "complements": [],
         "features": [
@@ -1561,7 +1561,7 @@
         }
     },
     "X-plore File Manager": {
-        "icon": "https://raw.githubusercontent.com/anfreire/updateMe-Data/main/icons/x-plore_file_manager.png",
+        "icon": "https://raw.githubusercontent.com/David-Jhon/updateMe-Data/main/icons/x-plore_file_manager.png",
         "depends": [],
         "complements": [],
         "features": [
@@ -1603,7 +1603,7 @@
         }
     },
     "Truecaller": {
-        "icon": "https://raw.githubusercontent.com/anfreire/updateMe-Data/main/icons/truecaller.png",
+        "icon": "https://raw.githubusercontent.com/David-Jhon/updateMe-Data/main/icons/truecaller.png",
         "depends": [],
         "complements": [],
         "features": [
@@ -1629,7 +1629,7 @@
         }
     },
     "Lightroom": {
-        "icon": "https://raw.githubusercontent.com/anfreire/updateMe-Data/main/icons/adobe_lightroom.png",
+        "icon": "https://raw.githubusercontent.com/David-Jhon/updateMe-Data/main/icons/adobe_lightroom.png",
         "depends": [],
         "complements": [],
         "features": [
@@ -1679,7 +1679,7 @@
         }
     },
     "Shazam": {
-        "icon": "https://raw.githubusercontent.com/anfreire/updateMe-Data/main/icons/shazam.png",
+        "icon": "https://raw.githubusercontent.com/David-Jhon/updateMe-Data/main/icons/shazam.png",
         "depends": [],
         "complements": [],
         "features": [
@@ -1721,7 +1721,7 @@
         }
     },
     "Duolingo": {
-        "icon": "https://raw.githubusercontent.com/anfreire/updateMe-Data/main/icons/duolingo.png",
+        "icon": "https://raw.githubusercontent.com/David-Jhon/updateMe-Data/main/icons/duolingo.png",
         "depends": [],
         "complements": [],
         "features": [
@@ -1765,7 +1765,7 @@
         }
     },
     "MX Player": {
-        "icon": "https://raw.githubusercontent.com/anfreire/updateMe-Data/main/icons/mx_player.png",
+        "icon": "https://raw.githubusercontent.com/David-Jhon/updateMe-Data/main/icons/mx_player.png",
         "depends": [],
         "complements": [],
         "features": [
@@ -1808,7 +1808,7 @@
         }
     },
     "SNOW": {
-        "icon": "https://raw.githubusercontent.com/anfreire/updateMe-Data/main/icons/snow.png",
+        "icon": "https://raw.githubusercontent.com/David-Jhon/updateMe-Data/main/icons/snow.png",
         "depends": [],
         "complements": [],
         "features": [
@@ -1850,7 +1850,7 @@
         }
     },
     "SD Maid Pro": {
-        "icon": "https://raw.githubusercontent.com/anfreire/updateMe-Data/main/icons/sd_maid_pro.png",
+        "icon": "https://raw.githubusercontent.com/David-Jhon/updateMe-Data/main/icons/sd_maid_pro.png",
         "depends": [],
         "complements": [],
         "features": [
@@ -1876,7 +1876,7 @@
         }
     },
     "SD Maid SE": {
-        "icon": "https://raw.githubusercontent.com/anfreire/updateMe-Data/main/icons/sd_maid_se.png",
+        "icon": "https://raw.githubusercontent.com/David-Jhon/updateMe-Data/main/icons/sd_maid_se.png",
         "depends": [],
         "complements": [],
         "features": [
@@ -1894,7 +1894,7 @@
         }
     },
     "1DM+": {
-        "icon": "https://raw.githubusercontent.com/anfreire/updateMe-Data/main/icons/1dm+.png",
+        "icon": "https://raw.githubusercontent.com/David-Jhon/updateMe-Data/main/icons/1dm+.png",
         "depends": [],
         "complements": [],
         "features": [
@@ -1937,7 +1937,7 @@
         }
     },
     "My Diary": {
-        "icon": "https://raw.githubusercontent.com/anfreire/updateMe-Data/main/icons/my_diary.png",
+        "icon": "https://raw.githubusercontent.com/David-Jhon/updateMe-Data/main/icons/my_diary.png",
         "depends": [],
         "complements": [],
         "features": [
@@ -1971,7 +1971,7 @@
         }
     },
     "nzb360": {
-        "icon": "https://raw.githubusercontent.com/anfreire/updateMe-Data/main/icons/nzb360.png",
+        "icon": "https://raw.githubusercontent.com/David-Jhon/updateMe-Data/main/icons/nzb360.png",
         "depends": [],
         "complements": [],
         "features": [
@@ -2006,7 +2006,7 @@
         }
     },
     "Nova Launcher": {
-        "icon": "https://raw.githubusercontent.com/anfreire/updateMe-Data/main/icons/nova_launcher.png",
+        "icon": "https://raw.githubusercontent.com/David-Jhon/updateMe-Data/main/icons/nova_launcher.png",
         "depends": [],
         "complements": [],
         "features": [
@@ -2048,7 +2048,7 @@
         }
     },
     "Waze": {
-        "icon": "https://raw.githubusercontent.com/anfreire/updateMe-Data/main/icons/waze.png",
+        "icon": "https://raw.githubusercontent.com/David-Jhon/updateMe-Data/main/icons/waze.png",
         "depends": [],
         "complements": [],
         "features": [
@@ -2082,7 +2082,7 @@
         }
     },
     "ES File Explorer": {
-        "icon": "https://raw.githubusercontent.com/anfreire/updateMe-Data/main/icons/es_file_manager.png",
+        "icon": "https://raw.githubusercontent.com/David-Jhon/updateMe-Data/main/icons/es_file_manager.png",
         "depends": [],
         "complements": [],
         "features": [
@@ -2124,7 +2124,7 @@
         }
     },
     "Friendly For Twitter/X": {
-        "icon": "https://raw.githubusercontent.com/anfreire/updateMe-Data/main/icons/FriendlyForTwitterX.png",
+        "icon": "https://raw.githubusercontent.com/David-Jhon/updateMe-Data/main/icons/FriendlyForTwitterX.png",
         "depends": [],
         "complements": [],
         "features": [
@@ -2150,7 +2150,7 @@
         }
     },
     "Snapchat": {
-        "icon": "https://raw.githubusercontent.com/anfreire/updateMe-Data/main/icons/Snapchat.png",
+        "icon": "https://raw.githubusercontent.com/David-Jhon/updateMe-Data/main/icons/Snapchat.png",
         "depends": [],
         "complements": [],
         "features": [
@@ -2173,7 +2173,7 @@
         }
     },
     "Facebook": {
-        "icon": "https://raw.githubusercontent.com/anfreire/updateMe-Data/main/icons/facebook.png",
+        "icon": "https://raw.githubusercontent.com/David-Jhon/updateMe-Data/main/icons/facebook.png",
         "depends": [],
         "complements": [],
         "features": [
@@ -2191,7 +2191,7 @@
         }
     },
     "Messenger": {
-        "icon": "https://raw.githubusercontent.com/anfreire/updateMe-Data/main/icons/messenger.png",
+        "icon": "https://raw.githubusercontent.com/David-Jhon/updateMe-Data/main/icons/messenger.png",
         "depends": [],
         "complements": [],
         "features": [
@@ -2212,7 +2212,7 @@
         }
     },
     "X": {
-        "icon": "https://raw.githubusercontent.com/anfreire/updateMe-Data/main/icons/x.png",
+        "icon": "https://raw.githubusercontent.com/David-Jhon/updateMe-Data/main/icons/x.png",
         "depends": [],
         "complements": [],
         "features": [
@@ -2236,7 +2236,7 @@
         }
     },
     "RAR": {
-        "icon": "https://raw.githubusercontent.com/anfreire/updateMe-Data/main/icons/rar.png",
+        "icon": "https://raw.githubusercontent.com/David-Jhon/updateMe-Data/main/icons/rar.png",
         "depends": [],
         "complements": [],
         "features": [
@@ -2262,7 +2262,7 @@
         }
     },
     "Secure VPN": {
-        "icon": "https://raw.githubusercontent.com/anfreire/updateMe-Data/main/icons/securevpn.png",
+        "icon": "https://raw.githubusercontent.com/David-Jhon/updateMe-Data/main/icons/securevpn.png",
         "depends": [],
         "complements": [],
         "features": [
@@ -2304,7 +2304,7 @@
         }
     },
     "KineMaster": {
-        "icon": "https://raw.githubusercontent.com/anfreire/updateMe-Data/main/icons/kinemaster.png",
+        "icon": "https://raw.githubusercontent.com/David-Jhon/updateMe-Data/main/icons/kinemaster.png",
         "depends": [],
         "complements": [],
         "features": [
@@ -2335,7 +2335,7 @@
         }
     },
     "XY VPN": {
-        "icon": "https://raw.githubusercontent.com/anfreire/updateMe-Data/main/icons/xyvpn.png",
+        "icon": "https://raw.githubusercontent.com/David-Jhon/updateMe-Data/main/icons/xyvpn.png",
         "depends": [],
         "complements": [],
         "features": [
@@ -2377,7 +2377,7 @@
         }
     },
     "TickTick": {
-        "icon": "https://raw.githubusercontent.com/anfreire/updateMe-Data/main/icons/ticktick.png",
+        "icon": "https://raw.githubusercontent.com/David-Jhon/updateMe-Data/main/icons/ticktick.png",
         "depends": [],
         "complements": [],
         "features": [
@@ -2419,7 +2419,7 @@
         }
     },
     "Photomath": {
-        "icon": "https://raw.githubusercontent.com/anfreire/updateMe-Data/main/icons/photomath.png",
+        "icon": "https://raw.githubusercontent.com/David-Jhon/updateMe-Data/main/icons/photomath.png",
         "depends": [],
         "complements": [],
         "features": [
